@@ -1,4 +1,4 @@
-FakeOrReal
+# FakeOrReal
 This is a machine learning text classifier algorithm.
 Its purpose is to differentiate fake news from real news.
 The program first reads the data set given,
